@@ -1,0 +1,4 @@
+.validationError {
+    color: red; /* Цвет текста красный */
+    font-weight: bold; /* Жирный шрифт для выделения */
+}
